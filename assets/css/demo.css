@@ -1,0 +1,13 @@
+.header-section .bg {
+  background-image: url(../images/header-bg.jpg); }
+
+.subscribe-section {
+  background-image: url(../images/parallax-bg.jpg) !important; }
+
+.our-client-section {
+  /* Our clients section */
+  background-image: url(../images/parallax-bg-2.jpg) !important; }
+
+.testimonials-section {
+  /* Testimonial section */
+  background-image: url(../images/parallax-bg-3.jpg) !important; }
